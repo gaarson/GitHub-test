@@ -1,0 +1,20 @@
+@font-face{
+  font-family: 'FlangeBQ';
+  src: url('../fonts/FlangeBQ/FlangeBQ.eot');
+  src: url('../fonts/FlangeBQ/FlangeBQ.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/FlangeBQ/FlangeBQ.woff2') format('woff2'),
+       url('../fonts/FlangeBQ/FlangeBQ.woff') format('woff'),
+       url('../fonts/FlangeBQ/FlangeBQ.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face{
+  font-family: 'FiraSans-Regular';
+  src: url('../fonts/FiraSans-Regular/FiraSans-Regular.eot');
+  src: url('../fonts/FiraSans-Regular/FiraSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/FiraSans-Regular/FiraSans-Regular.woff2') format('woff2'),
+       url('../fonts/FiraSans-Regular/FiraSans-Regular.woff') format('woff'),
+       url('../fonts/FiraSans-Regular/FiraSans-Regular.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}

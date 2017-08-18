@@ -1,0 +1,10 @@
+const app = require('../server');
+const http = require('http');
+
+let port = 4000;
+
+app.set('port', port);
+
+let server = http.createServer(app);
+
+server.listen(port);
