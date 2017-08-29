@@ -12,9 +12,9 @@ const github = new GitHubApi({
   timeout: 5000
 })
 
-github.authenticate({
-  type: 'token',
-  token: '73bff1530f5c74e35cef9693f8abba6fedc3546a'
-})
+//github.authenticate({
+  //type: 'token',
+  //token: '73bff1530f5c74e35cef9693f8abba6fedc3546a'
+//})
 
 module.exports = github

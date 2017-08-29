@@ -2,7 +2,6 @@ const path = require('path')
 const webpack = require('webpack')
 
 module.exports = {
-  devtool: 'inline-source-map',
   entry: {
     js: ['babel-polyfill', path.join(__dirname, 'client/app.js')]
   },
